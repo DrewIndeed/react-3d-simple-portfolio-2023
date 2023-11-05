@@ -21,6 +21,7 @@ const Links = styled.div`
 const Logo = styled.img`
   width: 60px;
   height: 60px;
+  margin-right: 1rem;
 `;
 
 const Icons = styled.div`
@@ -47,7 +48,7 @@ const ListItem = styled.li`
 const Button = styled.button`
   width: 100%;
   color: #fff;
-  background-color: magenta;
+  background-color: #da4ea2;
   outline: none;
   border: none;
   padding: 8px 10px;
